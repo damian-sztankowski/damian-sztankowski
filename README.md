@@ -24,8 +24,19 @@
 
 
 ### Glad to see you here!  
-I'm Senior Solution Cloud Architect and tech enthusiast. Love to share my knowledge and help others to deal with Google Cloud and RedHat. I'm also active Google Cloud Community member.  
-  
+I'm Senior Cloud Solution Architect with a deep passion for crafting innovative, scalable, and robust solutions in the cloud. With extensive expertise in Google Cloud, AWS, and other cloud platforms, I specialize in designing modern architectures that drive business success.  
+
+🚀 What I do:
+- Architecting and implementing cloud-native solutions.
+- Leading digital transformation initiatives using cutting-edge cloud technologies.
+- Enabling businesses with scalable infrastructure and efficient deployment pipelines.
+
+💡 My Skills & Expertise:
+
+- Cloud Platforms: Google Cloud, AWS, IBM Cloud, Azure.
+- Automation & Tools: Terraform, CI/CD pipelines, and Infrastructure as Code (IaC).
+- Programming: Python, Bash, and PowerShell for scripting and task automation.
+- Modern Architectures: Microservices, containerization (Docker, Kubernetes), and serverless solutions.
 
 <br/>  
 

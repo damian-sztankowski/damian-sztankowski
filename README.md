@@ -15,6 +15,9 @@
 </a>
 <a href="https://www.youtube.com/user/https://www.youtube.com/@TheCloudlyNomad" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.googlecloudcommunity.com/gc/user/viewprofilepage/user-id/374367" target="_blank">
+<img src=https://img.shields.io/badge/Google%20Chrome-4285F4?logo=GoogleChrome&logoColor=white=plastic&logo=Google%20Cloud&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
   
 
@@ -28,7 +31,7 @@ I'm Senior Solution Cloud Architect and tech enthusiast. Love to share my knowle
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+
 
 - ⭐ I'm [Champion Innovator in Modern Architecture category](https://cloud.google.com/innovators/innovator?profileId=102327521996769266890)  
   
@@ -36,17 +39,17 @@ I'm Senior Solution Cloud Architect and tech enthusiast. Love to share my knowle
 - ♾️ I'm also [RedHat Certified Architect Infra LVL 5](https://rhtapps.redhat.com/verify?certId=210-165-155)  
   
 
-- 👨‍🏫 I'm also [Google for Education Certified Trainer](https://edudirectory.withgoogle.com/profiles/4822532021026816)    
+- 👨‍🏫 I'm also [Google for Education Certified Trainer](https://edudirectory.withgoogle.com/profiles/4822532021026816)
   
 
 - ❓ Ask me about Google Cloud, RedHat, Monitoring, Observability, DevOps, BAU  
 
 
-</td><td valign="top" width="50%">
+<br/>  
 
+## Projects  
 
-
-</td></tr></table>  
+-  🏗️ I'm currently working on [CloudQuest]()
 
 <br/>  
 
@@ -103,6 +106,3 @@ I'm Senior Solution Cloud Architect and tech enthusiast. Love to share my knowle
 
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>

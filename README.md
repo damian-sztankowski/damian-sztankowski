@@ -17,7 +17,7 @@
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.googlecloudcommunity.com/gc/user/viewprofilepage/user-id/374367" target="_blank">
-<img src=https://img.shields.io/badge/Google%20Cloud-4285F4?&style=plastic&logo=Google%20Cloud&logoColor=white alt=youtube style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/Google%20Cloud-4285F4?&style=plastic&logo=Google%20Cloud&logoColor=white alt=youtube style="margin-bottom: 5px;"/>
 </a>  
   
 

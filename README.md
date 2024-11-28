@@ -33,7 +33,7 @@ I'm Senior Cloud Solution Architect with a deep passion for crafting innovative,
 
 💡 My Skills & Expertise:
 
-- Cloud Platforms: Google Cloud, AWS, IBM Cloud, Azure.
+- Cloud Platforms: Google Cloud
 - Automation & Tools: Terraform, CI/CD pipelines, and Infrastructure as Code (IaC).
 - Programming: Python, Bash, and PowerShell for scripting and task automation.
 - Modern Architectures: Microservices, containerization (Docker, Kubernetes), and serverless solutions.
@@ -71,10 +71,7 @@ I'm Senior Cloud Solution Architect with a deep passion for crafting innovative,
     <tr>
       <td><h3>Clouds</h3></td>
       <td>
-        <a href="https://aws.amazon.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>
         <a href="https://cloud.google.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>
-        <a href="https://www.ibm.com/cloud/" target="_blank"><img src="https://avatars.githubusercontent.com/u/7284885?s=48&v=4" alt="IBM" height="50" /></a>
-        <a href="https://azure.microsoft.com/en-in/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>
       </td>
     </tr>
     <tr>

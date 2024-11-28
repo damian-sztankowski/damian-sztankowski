@@ -24,7 +24,7 @@
 
 
 ### Glad to see you here!  
-I'm Senior Cloud Solution Architect with a deep passion for crafting innovative, scalable, and robust solutions in the cloud. With extensive expertise in Google Cloud, AWS, and other cloud platforms, I specialize in designing modern architectures that drive business success.     
+I'm Senior Cloud Solution Architect with a deep passion for crafting innovative, scalable, and robust solutions in the cloud. With extensive expertise in Google Cloud, I specialize in designing modern architectures that drive business success.     
 
 🚀 What I do:
 - Architecting and implementing cloud-native solutions.

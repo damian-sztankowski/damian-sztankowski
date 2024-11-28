@@ -60,7 +60,7 @@ I'm Senior Cloud Solution Architect with a deep passion for crafting innovative,
 
 ## Projects  
 
--  🏗️ I'm currently working on [CloudQuest](https://github.com/damian-sztankowski/CloudQuest) 
+-  🏗️ I'm currently working on [CloudQuest](https://github.com/damian-sztankowski/CloudQuest-Real-World-Engineer-Simulator) 
 
 <br/>  
 

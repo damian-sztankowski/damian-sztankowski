@@ -43,6 +43,7 @@ I'm Senior Cloud Solution Architect with a deep passion for crafting innovative,
 
 ## Rapidfire  
 
+- ⭐ I'm [Google Developer Expert for Google Cloud](https://developers.google.com/profile/u/damians) 
 
 - ⭐ I'm [Champion Innovator in Modern Architecture category](https://cloud.google.com/innovators/innovator?profileId=102327521996769266890)  
   

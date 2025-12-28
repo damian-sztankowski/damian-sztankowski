@@ -31,7 +31,7 @@
       <img src="https://img.shields.io/badge/RHCA-Infra%20LVL%205-CC0000?style=for-the-badge&logo=redhat&logoColor=white" />
     </td>
     <td width="33%" align="center">
-      <img src="https://img.shields.io/badge/Champion-Innovator-FBBC04?style=for-the-badge&logo=googlecloud&logoColor=white" />
+      <img src="https://img.shields.io/badge/Kubestronaut-4285F4?style=for-the-badge&logo=kubernetes&logoColor=white" />
     </td>
   </tr>
 </table>
